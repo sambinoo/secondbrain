@@ -6,6 +6,8 @@ The project will be broken up into three components:
 - A database, a location to store data inputs
 - A dashboard, the data exported to a UI for a tailored view
 
+I want to be especially diligent about documentation and security, optimization be revisited after mvp.
+
 ## Phase 1:
 - explore Twitter API / developer resources to scrape / export personal tweets
   - [Filtered stream](https://developer.twitter.com/en/docs/twitter-api/tweets/filtered-stream/introduction)
